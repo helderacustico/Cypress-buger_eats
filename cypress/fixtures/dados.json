@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Helder Soares",
+        "cpf": "45698712321",
+        "email": "heldinhodabahia@hotmail.com",
+        "whatsapp": "77991364331",
+        "address": {
+            "postalcode": "45994033",
+            "street": "Rua Egberto Rabelo Pina",
+            "number": "428",
+            "details": "Ap 100",
+            "district": "Redenção",
+            "city_state": "Teixeira de Freitas/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Helder Cheroso",
+        "cpf": "AA69871232e",
+        "email": "heldinhodabahia@hotmail.com",
+        "whatsapp": "77991364331",
+        "address": {
+            "postalcode": "45994033",
+            "street": "Rua Egberto Rabelo Pina",
+            "number": "428",
+            "details": "Ap 100",
+            "district": "Redenção",
+            "city_state": "Teixeira de Freitas/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Helder Soares",
+        "cpf": "45698712321",
+        "email": "heldinhodabahia.com.br",
+        "whatsapp": "77991364331",
+        "address": {
+            "postalcode": "45994033",
+            "street": "Rua Egberto Rabelo Pina",
+            "number": "428",
+            "details": "Ap 100",
+            "district": "Redenção",
+            "city_state": "Teixeira de Freitas/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
